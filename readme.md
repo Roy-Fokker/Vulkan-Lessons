@@ -3,15 +3,15 @@
 Series of Lessons in using Vulkan. 
 
 ## Tools
-Tool         | Version
--------------|----------
-MSVC         | 19.35 x64
-CMake        | 3.26.0+
-Ninja        | 1.11.1
-vcpkg        | 2023-03-14
-RenderDoc    | 1.25
-Vulkan SDK   | 1.3.239
-Windows SDK  | 11
+Tool | Version
+---|---
+MSVC | 19.35 x64
+CMake | 3.26.0+
+Ninja | 1.11.1
+vcpkg | 2023-03-14
+RenderDoc | 1.25
+Vulkan SDK | 1.3.239
+Windows SDK | 11
 
 Optional Tool | Version
 --------------|----------
